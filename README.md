@@ -6,7 +6,7 @@
 Deployment Done 
 Frontend-> Netlify and Backend ->Render
 Link: https://aesthetic-churros-1a9ee7.netlify.app/
-
+DataBase MongoDb Atlas Link: mongodb+srv://saswatapain17:<password>@cluster0.ly7nbkr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 <br/>
 
 <div style="text-align:center;">
